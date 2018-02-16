@@ -1,0 +1,13 @@
+body {
+  background-color: #323232;
+}
+
+#mittCanvas {
+  background-color: black;
+  display: block;
+  margin: auto;
+}
+
+#hp {
+  color: white;
+}
